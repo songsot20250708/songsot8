@@ -10,4 +10,4 @@
 
 平台聚合了来自欧美日韩的高清视频资源，支持分类浏览，覆盖剧情片、短片、制服、熟女、重口等多样化内容。用户无需注册即可直接在线播放，所有视频均支持1080P高清格式播放，并通过智能加速确保不卡顿。无弹窗、无广告，专为移动端和桌面端用户打造纯净观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/songsot20250708/songsot8 ）</span>
